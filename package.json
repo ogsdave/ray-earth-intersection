@@ -1,0 +1,25 @@
+{
+  "name": "earth-ray-intersection",
+  "version": "1.0.0",
+  "description": "intersection of a ray with the earth as a wgs84 oblate sphereoid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecef",
+    "geo",
+    "intersect",
+    "ray",
+    "wgs84"
+  ],
+  "author": "substack",
+  "license": "BSD",
+  "dependencies": {
+    "gl-vec3": "^1.0.3",
+    "wgs84": "0.0.0"
+  },
+  "devDependencies": {
+    "geodetic-to-ecef": "^1.2.0"
+  }
+}
