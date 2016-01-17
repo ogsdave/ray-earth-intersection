@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "geodetic-to-ecef": "^1.2.0",
-    "gl-vec3": "^1.0.3"
+    "gl-vec3": "^1.0.3",
+    "tape": "^4.4.0"
   }
 }
